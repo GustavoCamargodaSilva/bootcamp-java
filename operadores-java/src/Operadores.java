@@ -3,7 +3,7 @@ public class Operadores {
         String nomeCompleto = "LINGUAGEM" + " JAVA";
         System.out.println(nomeCompleto);
 
-        // CONCATENAÇÃO DE STRINGS
+        // CONCATENAÇÃO DE STRINGS.
 
     }
 }
