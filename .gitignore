@@ -24,3 +24,5 @@ hs_err_pid*
 tipos-variaveis/.vscode/settings.json
 operadores-java/.vscode/settings.json
 operadores-java/sistema-smart-tv/.vscode/settings.json
+java-terminal/.vscode/settings.json
+java-terminal/.vscode/launch.json
